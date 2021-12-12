@@ -61,7 +61,7 @@
             		<span class="flaticon-books"></span>
               </div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Who we are</h3>
+                <h3 class="heading">Who we are//</h3>
                 <p>
 				The Centre for Media & Information Literacy in Kenya (CMILKenya) is a not-for-profit organization registered in Kenya in May, 2013 to spearhead media and information literacy among various citizen groups and promote good governance through civic engagement initiatives in the country.</p>
               </div>
